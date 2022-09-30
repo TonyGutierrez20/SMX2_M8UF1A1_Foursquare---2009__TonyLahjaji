@@ -6,7 +6,7 @@ Foursquare es un servicio basado en localización web aplicada a las redes socia
 
 **Ejemplo Foto**
 
-[archive](https://github.com/TonyGutierrez20/SMX2_M8UF1A1_Foursquare---2009__TonyLahjaji/blob/main/que-es-foursquare-guia-completa-44.jpg)
+![archive](https://github.com/TonyGutierrez20/SMX2_M8UF1A1_Foursquare---2009__TonyLahjaji/blob/main/que-es-foursquare-guia-completa-44.jpg)
 
 **Quien lo creo**
 
@@ -14,3 +14,4 @@ El servicio fue creado en 2009 por Dennis Crowley y Naveen Selvadurai; Crowley h
 
 Foto de Dennis Crowley
 
+![Dennis Croley](https://github.com/TonyGutierrez20/SMX2_M8UF1A1_Foursquare---2009__TonyLahjaji/blob/main/DO_NOT_USECrowleyD_1681236c.jpg)
