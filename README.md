@@ -1,0 +1,1 @@
+# SMX2_M8UF1A1_Pattern-Portfolios---2009__TonyLahjaji
